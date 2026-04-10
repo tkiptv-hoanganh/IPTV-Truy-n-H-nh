@@ -33,8 +33,8 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today HD - Kênh Đối Ngoại
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Kênh CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV-1_logo_2001.png/revision/latest/scale-to-width-down/1538?cb=20220607044228&path-prefix=vi", CCTV1 HD
-https://tv.cctv.com/live/cctv1/m/index.shtml?spm=C28340.PImrkkn9UZ9h.EKwRtVW32XWU.2.m3u8
+#EXTINF:-1 group-title="Kênh CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV-1_logo_2001.png/revision/latest/scale-to-width-down/1538?cb=20220607044228&path-prefix=vi", CCTV1 HD 
+https://trefoil.tv/3212-cctv-1.html
 #EXTINF:-1 group-title="Kênh CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png", CCTV2 HD
 https://tv.cctv.com/live/cctv2/m/index.shtml?spm=C28340.PTdXq4SO9APo.EGY8xOPz6ohQ.3.m3u8
 #EXTINF:-1 group-title="Kênh CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png", CCTV+1 HD
